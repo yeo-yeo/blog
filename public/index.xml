@@ -6,21 +6,14 @@
     <description>Recent content on Gillian Yeomans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 31 Mar 2024 18:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 22:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recurse Center: Week 1</title>
       <link>http://localhost:1313/posts/week-1/</link>
-      <pubDate>Sun, 31 Mar 2024 18:57:58 +0000</pubDate>
+      <pubDate>Sun, 31 Mar 2024 22:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/week-1/</guid>
       <description>Wello, horld! Earlier this month I decided to leave my job and spend a few weeks at the Recurse Center, working on my programming skills and taking time to think about what I&amp;rsquo;d like to do next.&#xA;Participants aren&amp;rsquo;t required to write a blog about their time here, but it is a great way to document what you&amp;rsquo;ve been doing in this busy period, for your future self if nobody else.</description>
-    </item>
-    <item>
-      <title>what/why rc</title>
-      <link>http://localhost:1313/posts/why-rc/</link>
-      <pubDate>Sat, 30 Mar 2024 18:57:58 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-rc/</guid>
-      <description>Introduction opener - sentence or two about career break/recurse center/what i&amp;rsquo;m planning to do&#xA;something about how it&amp;rsquo;s obligatory to write a blog</description>
     </item>
   </channel>
 </rss>

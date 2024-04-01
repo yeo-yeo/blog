@@ -37,12 +37,12 @@ For now I'd like to move further outside of my comfort zone of webpage land, whi
 ### Kaggle
 As I mentioned above, one common application of Python is in machine learning.  In 2024 it seems a bit remiss to have a career break and not touch on this a little bit.
 
-Realistically I don't see myself as being perfectly suited to the full mathsy linear algebra side of machine learning, but I thought working with some prebuilt tools could be interesting.  That led me to [Kaggle](kaggle.com) - a platform for data science learning and competions.
+Realistically I don't see myself as being perfectly suited to the full mathsy linear algebra side of machine learning, but I thought working with some prebuilt tools could be interesting.  That led me to [Kaggle](https://kaggle.com) - a platform for data science learning and competions.
 
 Kaggle have an entry-level [challenge](https://www.kaggle.com/competitions/titanic) where you build a simple model to predict the likelihood of certain passengers surviving the Titanic disaster, based on some given data such as age, gender, ticket class.  First off... I have to say this feels a bit tasteless - using personal tragedies in what is essentially a game.  Putting those scruples aside though it is an excellent learning exercise, supported by the [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) and [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) short courses.
 
 ### ChatGPT CLI
-The most significant thing I worked on was a CLI took written in Python which enables you to ask ChatGPT questions directly from your terminal.  A motivator for this has been just how useful I've found it as a development tool.  Being able to find the answer to questions like 'How do I make an asynchronous non-blocking request?' or 'Why do I get this error about my EntryPoint?' directly inside the IDE, rather than having to switch over to the browser (and potentially succumb to some distraction like my favourite - going down a rabbithole on the Guardian), is massively helpful.
+The most significant thing I worked on was a CLI tool written in Python which lets you ask ChatGPT questions directly from your terminal.  A motivator for this has been just how useful I've found it as a development tool.  Being able to find the answer to questions like 'How do I make an asynchronous non-blocking request?' or 'Why do I get this error about my EntryPoint?' directly inside the IDE, rather than having to switch over to the browser (and potentially succumb to distractions like my favourite - going down a rabbit hole on [the Guardian](https://theguardian.com)), is massively helpful.
 
 ![Quaero in action](/quaero-demo.gif)
 
@@ -52,7 +52,7 @@ If you'd like to try it out, it's called Quaero and is downloadable at https://p
 I've been trying to practise better developer habits as I've gone about this - finding better ways to organise my ideas, document my findings, and move quickly around my environment.
 
 This has included:
-* Making extensive use of [Notion](notion.so) to plan and record my work
+* Making extensive use of [Notion](https://notion.so) to plan and record my work
 * Finally forcing myself to use Vim (or rather Vim bindings in VSCode)
     - shout out to [Vim Adventures](https://vim-adventures.com/) for actually making this fun
     - and [this handy keyboard cover](https://www.editorskeys.com/en-us/products/vi-vim-keyboard-covers-for-macbook-imac) for when your memory fails you
