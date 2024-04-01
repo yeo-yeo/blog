@@ -2,5 +2,23 @@ baseURL = 'https://gillian.codes'
 languageCode = 'en-gb'
 title = 'Gillian Yeomans'
 theme = 'hugo-ink'
+
+googleAnalytics = "G-Y4RHT506F3"
+
 [markup.goldmark.renderer]
     unsafe= true 
+
+[[params.social]]
+    name = "Github"
+    icon = "github"
+    url = "https://github.com/yeo-yeo"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "linkedin"
+    url = "https://www.linkedin.com/in/gyeomans/"
+
+[[params.social]]
+    name = "RSS"
+    icon = "rss"
+    url = "/index.xml"
