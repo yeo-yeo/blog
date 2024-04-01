@@ -2,3 +2,5 @@ baseURL = 'https://gillian.codes'
 languageCode = 'en-gb'
 title = 'Gillian Yeomans'
 theme = 'hugo-ink'
+[markup.goldmark.renderer]
+    unsafe= true 
