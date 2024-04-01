@@ -1,6 +1,6 @@
 +++
 title = 'Recurse Center: Week 1'
-date = 2024-03-31T18:57:58Z
+date = 2024-03-31T22:00:00Z
 +++
 
 ## Wello, horld!
