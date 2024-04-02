@@ -3,7 +3,9 @@ languageCode = 'en-gb'
 title = 'Gillian Yeomans'
 theme = 'hugo-ink'
 
-googleAnalytics = "G-Y4RHT506F3"
+[services]
+  [services.googleAnalytics]
+    ID = 'G-Y4RHT506F3'
 
 [markup.goldmark.renderer]
     unsafe= true 
