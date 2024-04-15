@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Gillian Yeomans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 06 Apr 2024 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 11:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recurse Center: Week 3</title>
+      <link>http://localhost:1313/posts/week-3/</link>
+      <pubDate>Mon, 15 Apr 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/week-3/</guid>
+      <description>Half way Somehow, inexplicably, I&amp;rsquo;ve reached the half way point of a 6 week batch. I keep thinking I&amp;rsquo;ve made a mistake and recounting where the weeks have gone, but no, here we are.&#xA;This week was marked by less variety and more focus, as I ploughed at full speeed into Projects 1-6 of Nand 2 Tetris, building up from the logic gates and Arithmetic Logic Unit I mentioned last week, through to assembling the whole CPU and (simple 🙃) computer architecture, to writing machine code, and then (bonus) writing an assembler in Python to translate from symbolic machine code to binary.</description>
+    </item>
     <item>
       <title>Recurse Center: Week 2</title>
       <link>http://localhost:1313/posts/week-2/</link>
-      <pubDate>Sat, 06 Apr 2024 02:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2024 20:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/week-2/</guid>
-      <description>LDN -&amp;gt; NYC The Recurse Center is based in New York and pre-Covid all attendance was in person at its office space, &amp;rsquo;the Hub&amp;rsquo;, in Brooklyn. Since the pandemic physical attendance has been optional, but given that a lot of the value of RC is the connections you make and the ideas you share, I wanted to attend in person. Circumstances meant I was still at home in London for week 1, but the big thing for me in week 2 was I arrived in New York.</description>
+      <description>LDN -&amp;gt; NYC The Recurse Center is based in New York and pre-Covid all attendance was in person at its office space, the &amp;lsquo;Hub&amp;rsquo;, in Brooklyn. Since the pandemic physical attendance has been optional, but given that a lot of the value of RC is the connections you make and the ideas you share, I wanted to attend in person. Circumstances meant I was still at home in London for week 1, but the big thing for me in week 2 was I arrived in New York.</description>
     </item>
     <item>
       <title>Recurse Center: Week 1</title>
